@@ -1,3 +1,5 @@
+![Build a Library Website Logo](./github-header.png " Logo")
+
 # Build-a-Library-Website-Resources
 
 A collection of resources for State Libraries looking to provide web hosting services for small libraries.
