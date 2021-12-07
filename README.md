@@ -9,6 +9,8 @@ A collection of resources for State Libraries looking to provide web hosting ser
 eBranch in a Box is an initiative from the Idaho Commission for Libraries (ICfL) to assist Idaho libraries in having a web presence, which is defined as having a vital website that is an extension of the library providing information about or access to library services.
 #### [Nebraska Libraries on the Web](https://libraries.ne.gov/projectblog/)
 Through this project, the Nebraska Library Commission will help your public library set up a free website. We use WordPress to make the website easier to set up and maintain.
+#### [Colorado Virtual Library](https://www.coloradovirtuallibrary.org/technology/websites/)
+The State Library’s Network & Resource Sharing department (NRS) provides websites free-of-charge for libraries, museums, and related organizations. NRS can help you create your site, host it for free, and deliver hands-on training to help you keep your site up and running. More than 40 Colorado Libraries and other organizations are using this service already.
 
 
 
