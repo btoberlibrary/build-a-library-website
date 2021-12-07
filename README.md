@@ -15,7 +15,8 @@ The State Library’s Network & Resource Sharing department (NRS) provides websi
 
 
 ### Resources
-[Getting Started with Markdown](https://github.com/fefong/markdown_readme#getting-started-with-markdown)
+[Getting Started with Markdown](https://github.com/fefong/markdown_readme#getting-started-with-markdown)  
+[GitHub Flavored Markdown](https://github.github.com/gfm/)  
 
 
 
