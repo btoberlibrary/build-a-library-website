@@ -17,11 +17,13 @@ The State Library’s Network & Resource Sharing department (NRS) provides websi
 ### Resources
 [Getting Started with Markdown](https://github.com/fefong/markdown_readme#getting-started-with-markdown)  
 [GitHub Flavored Markdown](https://github.github.com/gfm/)  
+[Learn Photopea](https://www.photopea.com/learn/)  
 
 
 
 ### Tools
-
+#### [Photopea](https://www.photopea.com/)
+Photopea is an advanced image editor, which can work with both raster and vector graphics. You can use it for simple tasks, such as resizing images, as well as complex tasks, such as designing webpages, creating illustrations, processing photographs and more.
 
 ### Standards
 
