@@ -3,7 +3,7 @@
 # Build-a-Library-Website
 A collection of resources for State Libraries looking to provide web hosting services for small libraries.
 
-**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements and Legal Documents](agreements-and-legal-documents) | [Contact Info](#contact-info)
+**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements and Legal Documents](#agreements-and-legal-documents) | [Contact Info](#contact-info)
 
 ### State Library Website Hosting Programs
 #### [Idaho Commission for Libraries | eBranch](https://ebranch.lili.org/)
