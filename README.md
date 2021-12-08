@@ -35,7 +35,7 @@ Free webhosting through the Washington ReadyWeb Project (WaRP), using the Drupal
 [GitHub Flavored Markdown](https://github.github.com/gfm/)  
 [Learn Photopea](https://www.photopea.com/learn/)  
 [The	Washington	Readyweb	Project User Manual](https://www.betasite.org/sites/default/files/resources/Drupal.pdf)  
-[Designing Your Library Website (Nebraska Library Commission](https://docs.google.com/document/d/1P5Nlbl-zU4d7ckRuLLaIVNZ5CCxYsrJCReZRarX-hMs/edit#)
+[Designing Your Library Website (Nebraska Library Commission](https://docs.google.com/document/d/1P5Nlbl-zU4d7ckRuLLaIVNZ5CCxYsrJCReZRarX-hMs/edit#/)
 
 
 
