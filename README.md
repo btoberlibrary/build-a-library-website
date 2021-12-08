@@ -16,6 +16,9 @@ The State Library’s Network & Resource Sharing department (NRS) provides websi
 The Library of Michigan subsidizes website hosting for Michigan libraries through Ploud (Public Libraries in the Cloud). Ploud serves over half of the small and rural libraries in the lower peninsula.  
 #### [South Dakota Websites for Libraries](https://libguides.library.sd.gov/services/websites)
 The South Dakota State Library is working with Mile Up web developers to help public libraries launch their own library websites.  
+#### [Indiana CONNECT IN](https://www.in.gov/library/services-for-libraries/connect-in/)  
+The Indiana State Library offers Connect IN to provide free high-quality and functional websites to public libraries. The program is free for public libraries without a current online presence and those having difficulty maintaining their existing site.  
+
 
 
 
