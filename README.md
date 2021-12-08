@@ -3,7 +3,7 @@
 # Build-a-Library-Website
 A collection of resources for State Libraries looking to provide web hosting services for small libraries.
 
-**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements and Legal Documents](#agreements-and-legal-documents) | [Contact Info](#contact-info)
+**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tutorials](#tutorials) |[Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements and Legal Documents](#agreements-and-legal-documents) | [Contact Info](#contact-info)
 
 ### State Library Website Hosting Programs
 #### [Idaho Commission for Libraries | eBranch](https://ebranch.lili.org/)
@@ -18,11 +18,12 @@ The Library of Michigan subsidizes website hosting for Michigan libraries throug
 
 
 ### Resources
+[Unsplash](https://unsplash.com/): Online source for free Images
+
+### Tutorials
 [Getting Started with Markdown](https://github.com/fefong/markdown_readme#getting-started-with-markdown)  
 [GitHub Flavored Markdown](https://github.github.com/gfm/)  
 [Learn Photopea](https://www.photopea.com/learn/)  
-[Unsplash](https://unsplash.com/): Online source for free Images
-
 
 
 ### Tools
