@@ -3,7 +3,7 @@
 # Build-a-Library-Website
 A collection of resources for State Libraries looking to provide web hosting services for small libraries.
 
-**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Contact Info](#contact-info)
+**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements and Legal Documents](agreements-and-legal-documents) | [Contact Info](#contact-info)
 
 ### State Library Website Hosting Programs
 #### [Idaho Commission for Libraries | eBranch](https://ebranch.lili.org/)
@@ -30,6 +30,8 @@ Photopea is an advanced image editor, which can work with both raster and vector
 
 ### Code
 
+### Agreements and Legal Documents
+[Idaho's eBranch in a Box User Service Agreement](https://libraries.idaho.gov/files/e-branch-agreement.pdf)
 
 ### Contact Info
 Brian Tober  
