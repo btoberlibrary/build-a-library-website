@@ -13,7 +13,10 @@ Through this project, the Nebraska Library Commission will help your public libr
 #### [Colorado Virtual Library](https://www.coloradovirtuallibrary.org/technology/websites/)
 The State Library’s Network & Resource Sharing department (NRS) provides websites free-of-charge for libraries, museums, and related organizations. NRS can help you create your site, host it for free, and deliver hands-on training to help you keep your site up and running. More than 40 Colorado Libraries and other organizations are using this service already.  
 #### [Michigan Public Libraies in the Cloud (PLOUD)](https://www.michlibrary.org/)
-The Library of Michigan subsidizes website hosting for Michigan libraries through Ploud (Public Libraries in the Cloud). Ploud serves over half of the small and rural libraries in the lower peninsula.
+The Library of Michigan subsidizes website hosting for Michigan libraries through Ploud (Public Libraries in the Cloud). Ploud serves over half of the small and rural libraries in the lower peninsula.  
+#### [South Dakota Websites for Libraries](https://libguides.library.sd.gov/services/websites)
+The South Dakota State Library is working with Mile Up web developers to help public libraries launch their own library websites.  
+
 
 
 
