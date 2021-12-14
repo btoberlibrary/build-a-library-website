@@ -3,7 +3,7 @@
 # Build-a-Library-Website
 A collection of resources for State Libraries looking to provide web hosting services for small libraries.
 
-**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tutorials & Manuals](#tutorials-and-manuals) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements & Legal Documents](#agreements-and-legal-documents) | [Contact Info](#contact-info)
+**Jump To**: [State Library Website Hosting Programs](#state-library-website-hosting-programs) | [Resources](#resources) | [Tutorials & Manuals](#tutorials-and-manuals) | [Articles](#articles) | [Tools](#tools) | [Standards](#standards) | [Code](#code) | [Agreements & Legal Documents](#agreements-and-legal-documents) | [Contact Info](#contact-info)
 
 ### State Library Website Hosting Programs
 #### [Idaho Commission for Libraries | eBranch](https://ebranch.lili.org/)
@@ -38,7 +38,8 @@ Free webhosting through the Washington ReadyWeb Project (WaRP), using the Drupal
 [Nebraska Library Commission's Designing Your Library Website Questionnaire](https://docs.google.com/document/d/1P5Nlbl-zU4d7ckRuLLaIVNZ5CCxYsrJCReZRarX-hMs/edit\#)  
 
 
-
+### Articles
+[A Complete Guide To WordPress Multisite]https://www.smashingmagazine.com/2020/01/complete-guide-wordpress-multisite/#comments-complete-guide-wordpress-multisite
 
 ### Tools
 #### [Photopea](https://www.photopea.com/)
@@ -50,7 +51,8 @@ Photopea is an advanced image editor, which can work with both raster and vector
 ### Code
 
 ### Agreements and Legal Documents
-[Idaho's eBranch in a Box User Service Agreement](https://libraries.idaho.gov/files/e-branch-agreement.pdf)
+[Idaho's eBranch in a Box User Service Agreement](https://libraries.idaho.gov/files/e-branch-agreement.pdf)  
+WordPress Multisite allows you to run multiple websites on your server using the same WordPress installation. From setting up Wordpress Multisite to optimizing its various features, this article will help you understand every facet of this unique WordPress tool.  
 
 ### Contact Info
 Brian Tober  
