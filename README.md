@@ -39,7 +39,7 @@ Free webhosting through the Washington ReadyWeb Project (WaRP), using the Drupal
 
 
 ### Articles
-#### [A Complete Guide To WordPress Multisite](https://www.smashingmagazine.com/2020/01/complete-guide-wordpress-multisite/#comments-complete-guide-wordpress-multisite)   
+#### [A Complete Guide To WordPress Multisite](https://www.smashingmagazine.com/2020/01/complete-guide-wordpress-multisite/#comments-complete-guide-wordpress-multisite/)  
 WordPress Multisite allows you to run multiple websites on your server using the same WordPress installation. From setting up Wordpress Multisite to optimizing its various features, this article will help you understand every facet of this unique WordPress tool. 
 
 
